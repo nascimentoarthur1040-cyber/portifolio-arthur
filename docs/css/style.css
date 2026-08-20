@@ -5,7 +5,7 @@
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
-    /* VAMOS COLCOAR SCROLL SUAVE NA PAGINA */
+    /* VAMOS COLOCAR SCROLL SUAVE NA PAGINA */
     scroll-behavior: smooth;
 }
 
@@ -156,7 +156,7 @@ section h2::after {
         flex-direction: column;
         gap: 1rem;
     }
-    
+
     .nav-ul {
         gap: 1.2rem;
     }
